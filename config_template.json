@@ -1,0 +1,5 @@
+// input your information and rename file to config.json
+{
+    "SERPER_API_KEY": "",
+    "INTERNET_SEARCH_LOCATION": ""
+}

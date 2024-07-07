@@ -1,0 +1,4 @@
+/testing
+config.json
+/__pycache__
+/trained_agents_data.pkl
